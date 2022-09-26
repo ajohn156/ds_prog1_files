@@ -1,10 +1,10 @@
 Program #1
 
-Name:
+Name: Abigail Johnston
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
 Best run time:
 
